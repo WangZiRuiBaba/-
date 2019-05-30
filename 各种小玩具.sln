@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "各种小玩具", "各种小玩具\各种小玩具.csproj", "{DC98023C-25A2-4047-B20B-476FA60EDFF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "事件委托练习", "事件委托练习\事件委托练习.csproj", "{6967E2CF-4102-45B3-961A-4F81D91BA349}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC98023C-25A2-4047-B20B-476FA60EDFF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC98023C-25A2-4047-B20B-476FA60EDFF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC98023C-25A2-4047-B20B-476FA60EDFF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC98023C-25A2-4047-B20B-476FA60EDFF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6967E2CF-4102-45B3-961A-4F81D91BA349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6967E2CF-4102-45B3-961A-4F81D91BA349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6967E2CF-4102-45B3-961A-4F81D91BA349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6967E2CF-4102-45B3-961A-4F81D91BA349}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBA7694F-AB97-4BFD-85CD-BBA873A93DBA}
+	EndGlobalSection
+EndGlobal
